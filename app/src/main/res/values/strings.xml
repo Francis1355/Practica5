@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica5</string>
+    <string name="button.btn1">Convertir</string>
+    <string name="text.Temp">Proporciona los °C a convertir</string>
+    <string name="hint.Inp">Escribe los °C aquí</string>
+</resources>
